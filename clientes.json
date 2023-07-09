@@ -1,0 +1,22 @@
+[
+    {
+      "nombre": "Juan Perez",
+      "cedula o rif": "V123456789",
+      "correo": "juan.perez@example.com"
+    },
+    {
+      "nombre": "Maria Rodriguez",
+      "cedula o rif": "E987654321",
+      "correo": "maria.rodriguez@example.com"
+    },
+    {
+      "nombre": "Pedro Martinez",
+      "cedula o rif": "J456789012",
+      "correo": "pedro.martinez@example.com"
+    },
+    {
+      "nombre": "Juan Zambrano",
+      "cedula o rif": "V987654321",
+      "correo": "juan.zambrano@example.com"
+    }
+  ]

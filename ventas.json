@@ -1,0 +1,22 @@
+[
+    {
+      "cliente": "Juan Perez",
+      "fecha": "2022-06-15",
+      "monto": 150.00
+    },
+    {
+      "cliente": "Maria Rodriguez",
+      "fecha": "2022-06-16",
+      "monto": 100.00
+    },
+    {
+      "cliente": "Pedro Gomez",
+      "fecha": "2022-06-16",
+      "monto": 75.50
+    },
+    {
+      "cliente": "Luisa Martinez",
+      "fecha": "2022-06-17",
+      "monto": 200.00
+    }
+  ]

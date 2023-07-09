@@ -1,0 +1,23 @@
+[
+    {
+      "cliente": "Juan Pérez",
+      "monto": 100.0,
+      "moneda": "USD",
+      "tipo_pago": "Tarjeta de crédito",
+      "fecha": "2023-06-27"
+    },
+    {
+      "cliente": "María López",
+      "monto": 50.0,
+      "moneda": "USD",
+      "tipo_pago": "Transferencia bancaria",
+      "fecha": "2023-06-27"
+    },
+    {
+      "cliente": "Pedro Gómez",
+      "monto": 75.0,
+      "moneda": "EUR",
+      "tipo_pago": "PayPal",
+      "fecha": "2023-06-28"
+    }
+  ]
